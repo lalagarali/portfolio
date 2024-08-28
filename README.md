@@ -1,6 +1,6 @@
 # portfolio
 # Data analyst and Data Science roadmap
-1. Theory
+1. Data Literacy
 
 2. Statistics and Mathematics
 
