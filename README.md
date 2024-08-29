@@ -21,7 +21,23 @@ Data literacy refers to the ability to read, understand, interpret, and use data
    
 **Dataset**: A structured collection of data, often presented in rows and columns, like a table.
 
+**Stages of Analytics**:
+
+Descriptive Analytics: Focuses on understanding what has happened.
+
+Diagnostic Analytics: Focuses on understanding why something happened.
+
+Predictive Analytics: Focuses on anticipating what is likely to happen.
+
+Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
+
 **Data Visualization**: The graphical representation of data to make it easier to understand, such as charts, graphs, and maps.
+
+**Correlation**: A statistical measure that describes the extent to which two variables are related.
+
+**Data Cleaning**: The process of preparing data by fixing or removing incorrect, incomplete, or duplicate data.
+
+Data Privacy: Ensuring that personal or sensitive data is protected from unauthorized access.
 
 2. Statistics and Mathematics
 
