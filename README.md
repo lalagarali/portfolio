@@ -33,11 +33,19 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 
 **Data Visualization**: The graphical representation of data to make it easier to understand, such as charts, graphs, and maps.
 
+**Population**: The population is the entire group of individuals or items that is the focus of a statistical study.
+
+**Sample**: A sample is a subset of the population selected for analysis to make inferences about the entire group.
+
+**Observation unit**: Observation unit is the individual entity or item on which data is collected and analyzed in a study.
+
+**Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode, and quartiles are measures of central tendency.
+
 **Correlation**: A statistical measure that describes the extent to which two variables are related.
 
 **Data Cleaning**: The process of preparing data by fixing or removing incorrect, incomplete, or duplicate data.
 
-Data Privacy: Ensuring that personal or sensitive data is protected from unauthorized access.
+**Data Privacy**: Ensuring that personal or sensitive data is protected from unauthorized access.
 
 2. Statistics and Mathematics
 
