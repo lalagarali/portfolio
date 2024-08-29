@@ -41,6 +41,12 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 
 **Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode, and quartiles are measures of central tendency.
 
+**Arithmetic Mean**: The arithmetic mean is the value obtained by adding all the values in a series and dividing by the number of values.
+
+**Median**: The median is the value that divides a series into two equal parts when the series is arranged in ascending or descending order. It is the middle value in the ordered list.
+
+   If the series is symmetric, meaning the values in the dataset are close to each other, it is appropriate to use the arithmetic mean as the representative value. However, if the series is not symmetric, the median should be preferred. If the arithmetic mean and median values are close to each other, the series is considered symmetric.
+
 **Correlation**: A statistical measure that describes the extent to which two variables are related.
 
 **Data Cleaning**: The process of preparing data by fixing or removing incorrect, incomplete, or duplicate data.
