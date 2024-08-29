@@ -1,6 +1,6 @@
 # portfolio
 # Data Analyst and Data Science roadmap
-1. Data Literacy
+™1. Data Literacy™
 
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
 
