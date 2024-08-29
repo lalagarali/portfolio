@@ -8,10 +8,15 @@ Data literacy refers to the ability to read, understand, interpret, and use data
 
 **Data Types**: 
 1. Quantitative Data (Numerical Data): is numerical and used for calculations.
+   
      Interval Data: Numerical data where the difference between values is meaningful, but there is no true zero point.
+   
      Ratio Data: Numerical data that has all the properties of interval data, but with a true zero point, which allows for meaningful ratios.
-3. Qualitative Data (Categorical Data): is descriptive and used for categorization.
+   
+2. Qualitative Data (Categorical Data): is descriptive and used for categorization.
+   
      Nominal Data: Categories with no specific order.
+   
      Ordinal Data: Categories that have a meaningful order or ranking but no consistent difference between them.
    
 **Dataset**: A structured collection of data, often presented in rows and columns, like a table.
