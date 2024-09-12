@@ -1,4 +1,3 @@
-# portfolio
 # Data Analyst and Data Science roadmap
 ` 1. Data Literacy `
 
