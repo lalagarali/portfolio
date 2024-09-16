@@ -66,6 +66,8 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 
 8. Python
 
+print('Hello, Git!')
+
 9. R
 
 10. ML (Machine learning)
