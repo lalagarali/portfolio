@@ -81,6 +81,22 @@ BEGIN ... one or more executable statements ...
 
 Scope- In PL/SQL, variables, exceptions, modules, and a few other structures are local to the block that declares them. When the block stops executing, you can no longer reference any of these structures. 
 
+A lexical unit in PL/SQL is any of the following:
+• Identifier 
+• Literal
+• Delimiter
+• Comment
+
+Identifiers-
+   An identifier is a name for a PL/SQL object, including any of the following:
+• Constant or variable
+• Exception
+• Cursor
+• Program name: procedure, function, package, object type, trigger, etc.
+• Reserved word
+• Label
+
+
 7. BI tools - Power BI, Tableau, Oracle BI
 
 8. Python
