@@ -62,6 +62,17 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 
 6. PLSQL
 
+A PL/SQL block has up to four different sections, only one of which is mandatory:
+Header
+Used only for named blocks. The header determines the way the named block or program must be called. Optional.
+Declaration section
+Identifies variables, cursors, and subblocks that are referenced in the execution and exception sections. Optional.
+Execution section
+Contains statements the PL/SQL runtime engine will execute at runtime. Manda‐ tory.
+Exception section
+Handles exceptions to normal processing (warnings and error conditions). Op‐ tional.
+
+
 7. BI tools - Power BI, Tableau, Oracle BI
 
 8. Python
