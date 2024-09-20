@@ -79,6 +79,8 @@ BEGIN ... one or more executable statements ...
 [ EXCEPTION... exception handler statements ... ]
  END;
 
+Scope- In PL/SQL, variables, exceptions, modules, and a few other structures are local to the block that declares them. When the block stops executing, you can no longer reference any of these structures. 
+
 7. BI tools - Power BI, Tableau, Oracle BI
 
 8. Python
