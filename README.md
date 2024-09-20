@@ -72,6 +72,12 @@ Execution section-Contains statements the PL/SQL runtime engine will execute at 
 
 Exception section-Handles exceptions to normal processing (warnings and error conditions). Op‐ tional.
 
+The general syntax of an anonymous PL/SQL block is as follows:
+
+[ DECLARE ... declaration statements ... ] 
+BEGIN ... one or more executable statements ... 
+[ EXCEPTION... exception handler statements ... ]
+ END;
 
 7. BI tools - Power BI, Tableau, Oracle BI
 
