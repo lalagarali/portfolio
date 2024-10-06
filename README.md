@@ -96,6 +96,13 @@ Identifiers-
 • Reserved word
 • Label
 
+Literals
+A literal is a value that is not represented by an identifier; it is simply a value. 
+
+
+
+
+
 
 7. BI tools - Power BI, Tableau, Oracle BI
 
