@@ -4,6 +4,14 @@
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
 
 **Data**: Raw facts, figures, or information collected for reference or analysis.
+ Data can be categorized into two groups:
+
+Structured data
+
+Unstructured data
+
+
+
 
 **Information**:
 
@@ -24,6 +32,10 @@ Data literacy refers to the ability to read, understand, interpret, and use data
    
      Ordinal Data: Categories that have a meaningful order or ranking but no consistent difference between them.
    
+Database Table
+
+Variables
+
 **Dataset**: A structured collection of data, often presented in rows and columns, like a table.
 
 **Stages of Analytics**:
