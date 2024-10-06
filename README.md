@@ -5,6 +5,12 @@ Data literacy refers to the ability to read, understand, interpret, and use data
 
 **Data**: Raw facts, figures, or information collected for reference or analysis.
 
+**Information**:
+
+**Knowledge**:
+
+**Wisdom**:
+
 **Data Types**: 
 1. Quantitative Data (Numerical Data): is numerical and used for calculations.
    
@@ -45,6 +51,28 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 **Median**: The median is the value that divides a series into two equal parts when the series is arranged in ascending or descending order. It is the middle value in the ordered list.
 
    If the series is symmetric, meaning the values in the dataset are close to each other, it is appropriate to use the arithmetic mean as the representative value. However, if the series is not symmetric, the median should be preferred. If the arithmetic mean and median values are close to each other, the series is considered symmetric.
+
+**Mode**:
+**Quartiles**:
+**Range**:
+**Standard Deviation**:
+**Variance**:
+**Skewness**:
+**Kurtosis**:
+**Quartiles**:
+
+**Range**:
+**Standard Deviation**:
+**Variance**:
+**Variance**:
+**Mode**:
+**Quartiles**:
+**Range**:
+**Standard Deviation**:
+**Variance**:
+**Variance**:
+
+
 
 **Correlation**: A statistical measure that describes the extent to which two variables are related.
 
