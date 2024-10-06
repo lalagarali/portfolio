@@ -78,6 +78,24 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 
 **Data Cleaning**: The process of preparing data by fixing or removing incorrect, incomplete, or duplicate data.
 
+**Data collection**:
+
+**Data storytelling**:
+
+**Data Analysis Techniques**:There are numerous techniques used in data analysis, each with its unique purpose and application. Here, we will discuss some of the most commonly used techniques, including exploratory analysis, regression analysis, Monte Carlo simulation, factor analysis, cohort analysis, cluster analysis, time series analysis, and sentiment analysis.
+
+**Exploratory analysis**:
+**Regression analysis**:
+**Factor analysis**:
+**Monte Carlo simulation**:
+**Cluster analysis**:
+**Cohort analysis**:
+**Time series analysis**:
+**Sentiment analysis**:
+**Cluster analysis**:
+
+
+
 **Data Privacy**: Ensuring that personal or sensitive data is protected from unauthorized access.
 
 2. Statistics and Mathematics
