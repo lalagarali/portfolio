@@ -10,7 +10,14 @@ Structured data
 
 Unstructured data
 
+Data Analysis process
 
+ask
+prepare
+process
+analyze
+share
+act
 
 
 **Information**:
@@ -162,7 +169,12 @@ A literal is a value that is not represented by an identifier; it is simply a va
 
 
 
-7. BI tools - Power BI, Tableau, Oracle BI
+7. BI tools - Power BI
+
+Dax function
+
+
+Tableau, Oracle BI
 
 8. Python
 
