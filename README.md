@@ -19,6 +19,7 @@ analyze
 share
 act
 
+Big data
 
 **Information**:
 
@@ -74,22 +75,16 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 **Mode**:
 **Quartiles**:
 **Range**:
+
+İnterval
+Percentile
+
+
 **Standard Deviation**:
 **Variance**:
 **Skewness**:
 **Kurtosis**:
-**Quartiles**:
 
-**Range**:
-**Standard Deviation**:
-**Variance**:
-**Variance**:
-**Mode**:
-**Quartiles**:
-**Range**:
-**Standard Deviation**:
-**Variance**:
-**Variance**:
 
 
 
@@ -118,6 +113,93 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 **Data Privacy**: Ensuring that personal or sensitive data is protected from unauthorized access.
 
 2. Statistics and Mathematics
+
+Descriptive statistic
+Measures of Central Tendency
+Measures of Dispersion
+Frequency Distribution:
+Interquartile Range
+
+İnferential statistic
+Sampling
+Hypothesis testing
+Coefficiant interval:
+Significiant level (Alpha):
+P-value:
+Regression analysis:
+Variance analysis (ANOVA):
+Correlation and Covariance:
+Chi-squared testing:
+
+Random Number Generation (Excel)
+
+Box plot, Histogram, Pie Diagram, Polygon Graph, Gaussian Normal Distribution Density graph
+
+Frequency Table, Cumulative frequency, Grouping data, Expected Value calculationalgorithm
+
+Probability Introduction (Cumulative Probability Function, Probability Mass Function)
+
+Normal Probability (SPSS applied), Shapiro Wilk və Kolmogorov Smirnov testinin tətbiqi,
+Shapiro Francia tətbiqi, Z score hesablanması və ehtimalın təsbiti (Standartlaşdırma), Excel
+tətbiqləri
+
+Student T distribution, Confidence İnterval Calculation process, Poisson Distribution,
+Bernoulli Distribution, Binomial Distribution, Uniform Distribution
+
+Sampling Dataset, Normality checking, Power Analysis, Sample Mean, Population mean,
+Sample Variance, Sample Standard Deviation, Population Variance, Population Standard
+Deviation
+
+Hipotez anlayışı, Mərkəzi Limit Teoremi, One Sample T test nəzəri hissə, nümunələrlə
+SPSS, STATA, EXCEL tətbiqi ilə
+
+Independent Samples T test, Levene test nümunələrlə (Excel, SPSS, STATA tətbiqi ilə)
+
+Paired Samples T test, nümunələrlə (Excel, SPSS, STATA tətbiqi ilə)
+
+Korrelyasiya, Kovariance anlayışları (Excel, SPSS, STATA tətbiqi ilə)
+
+Durbin Watson testi, R squared (Determinasiya əmsalı), Adjusted R squared,
+Multicollinearlıq, Simple Linear Regression (Excel, STATA, SPSS tətbiqli)
+
+Multiple Linear Regression, Gauss Markov şərtinin yoxlanılması, Least Squares Method
+(Excel, STATA, SPSS tətbiqli)
+
+One way ANOVA analizi (Excel, SPSS, STATA tətbiqli)
+
+Two ways ANOVA analizi (Excel, SPSS, STATA tətbiqli)
+
+Repated Measures ANOVA (SPSS, STATA tətbiqli)
+
+Mixed ANOVA (SPSS, STATA tətbiqli)
+
+MANOVA analysis
+
+Chi Square test, Fisher`s Exact test, ANCOVA analizi
+
+Weighted Regression, Binary Logistic Regression Analysis (SPSS tətbiqli)
+
+Dummy Regression, Correlation Analysis (Pearson Correlation, Spearman Correlation,
+Partial Correlation) (SPSS tətbiqli)
+
+İyerarxik Regressiya, Parametric testlər (Mann Whitney U test, McNemar test, Sign test)
+(SPSS tətbiqli)
+
+Friedman, Kruskal Wallis, Wilxocon test (SPSS tətbiqli)
+
+Cohen Kappa, Cronbach Alfa, Kendals testlərinin tətbiqi (SPSS tətbiqli)
+İyerarxik klaster ilə cluster analysis (SPSS tətbiqli)
+K means method ilə cluster analysis (SPSS tətbiqli)
+Mediator Analysis
+Factor Analysis
+PCA analysis
+Multinomial Logistic Regression
+Poisson Regression, Gamma Regression, Binomial Regression
+
+Data Preprocessing mərhələsi
+Data Cleaning
+Matchine learning
+Model deployment
 
 3. Microsoft Excel
 
