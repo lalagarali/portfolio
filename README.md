@@ -3,8 +3,65 @@
 
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
 
-**Data**: Raw facts, figures, or information collected for reference or analysis.
- Data can be categorized into two groups:
+ 
+# 📐 DIKW Pyramid – Key Terms & Definitions
+
+A structured view from raw data to smart decision-making.
+
+---
+
+## 1️⃣ Data  
+**Raw facts and numbers without context.**  
+*Example:* `100`, `"John"`, `2025-06-25`
+
+---
+
+## 2️⃣ Facts  
+**Verified and true pieces of data.**  
+*Example:* `"The sky is blue."`
+
+---
+
+## 3️⃣ Information  
+**Organized and meaningful data.**  
+*Example:* `"John spent $100 on 2025-06-25."`
+
+---
+
+## 4️⃣ Knowledge  
+**Information combined with understanding or experience.**  
+*Example:* `"John usually shops more in June."`
+
+---
+
+## 5️⃣ Insights  
+**Useful discoveries or patterns found through data analysis.**  
+*Example:* `"Sales increase every summer."`
+
+---
+
+## 6️⃣ Wisdom  
+**The ability to make smart decisions based on knowledge and insights.**  
+*Example:* `"Launch a summer sale to increase revenue."`
+
+---
+
+## ➕ Big Data  
+**Extremely large and complex data sets that require advanced tools to process.**  
+*Example:* Social media posts, sensor data, videos
+
+---
+
+## ➕ Metadata  
+**Data about data; it describes other data.**  
+*Example:* `"This photo was taken on June 25, 2025, in Baku."`
+
+---
+
+
+
+
+Data can be categorized into two groups:
 
 Structured data is organized in rows and columns.It is easy to store, search, and analyze. This kind of data is usually stored in databases.(Customer name, age)
 
