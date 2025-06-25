@@ -1,4 +1,4 @@
-# Data Analyst and Data Science roadmap
+# Data Analyst and Data Science with SQL
 ` 1. Data Literacy `
 
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
