@@ -6,7 +6,7 @@ Data literacy refers to the ability to read, understand, interpret, and use data
 **Data**: Raw facts, figures, or information collected for reference or analysis.
  Data can be categorized into two groups:
 
-Structured data
+Structured data is organized in rows and columns.It is easy to store, search, and analyze. This kind of data is usually stored in databases.(Customer name, age)
 
 Unstructured data
 
