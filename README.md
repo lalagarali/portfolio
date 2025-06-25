@@ -8,7 +8,7 @@ Data literacy refers to the ability to read, understand, interpret, and use data
 
 Structured data is organized in rows and columns.It is easy to store, search, and analyze. This kind of data is usually stored in databases.(Customer name, age)
 
-Unstructured data
+Unstructured data has no fixed format.It is not stored in rows and columns.(Images and videos)
 
 Data Analysis process
 
