@@ -1,32 +1,21 @@
-# Data Analyst and Data Science with SQL
+## Data Analyst and Data Science with SQL
 ` 1. Data Literacy `
-
+---
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
 
  
-# 📐 DIKW Pyramid – Key Terms & Definitions
+DIKW Pyramid is a structured view from raw data to smart decision-making.
 
-A structured view from raw data to smart decision-making.
 
----
+# Data
+Raw facts and numbers without context.
 
-## 1️⃣ Data  
-**Raw facts and numbers without context.**  
-*Example:* `100`, `"John"`, `2025-06-25`
+# Facts  
+Verified and true pieces of data.
 
----
+# Information  
+Organized and meaningful data.
 
-## 2️⃣ Facts  
-**Verified and true pieces of data.**  
-*Example:* `"The sky is blue."`
-
----
-
-## 3️⃣ Information  
-**Organized and meaningful data.**  
-*Example:* `"John spent $100 on 2025-06-25."`
-
----
 
 ## 4️⃣ Knowledge  
 **Information combined with understanding or experience.**  
