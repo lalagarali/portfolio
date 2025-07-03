@@ -2,60 +2,52 @@
 ` 1. Data Literacy `
 ---
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
-
  
-DIKW Pyramid is a structured view from raw data to smart decision-making.
+**DIKW Pyramid** is a structured view from raw data to smart decision-making.
 
-Data - Raw facts and numbers without context.
+**Data** - Raw facts and numbers without context.
 
-Facts - Verified and true pieces of data.
+**Facts** - Verified and true pieces of data.
 
-Information - Organized and meaningful data.
+**Information** - Organized and meaningful data.
 
-Knowledge - Information combined with understanding or experience.
+**Knowledge** - Information combined with understanding or experience.
 
-Insights - Useful discoveries or patterns found through data analysis.
+**Insights** - Useful discoveries or patterns found through data analysis.
 
-Wisdom - The ability to make smart decisions based on knowledge and insights.
+**Wisdom** - The ability to make smart decisions based on knowledge and insights.
 
-Big Data - Extremely large and complex data sets that require advanced tools to process.
+**Big Data** - Extremely large and complex data sets that require advanced tools to process.
 
-Metadata - Data about data; it describes other data.
+**Metadata** - Data about data; it describes other data.
 
 
 Data can be categorized into two groups:
 
-Structured data is organized in rows and columns.It is easy to store, search, and analyze. This kind of data is usually stored in databases.(Customer name, age)
+**Structured data** is organized in rows and columns.It is easy to store, search, and analyze. This kind of data is usually stored in databases.(Customer name, age)
 
-Unstructured data has no fixed format.It is not stored in rows and columns.(Images and videos)
+**Unstructured data** has no fixed format.It is not stored in rows and columns.(Images and videos)
 
-Data analysis is the process of collecting, cleaning, and studying data to find useful information.It helps people and businesses make better decisions based on facts.
+**Data analysis** is the process of collecting, cleaning, and studying data to find useful information.It helps people and businesses make better decisions based on facts.
 
-Data Analysis Process is a step-by-step method used to understand and find meaning in data.
+**Data Analysis Process** is a step-by-step method used to understand and find meaning in data.
 
 It includes 6 main steps:
-	1.	Ask – Define the question you want to answer
-	2.	Prepare – Collect and organize the data
-	3.	Process – Clean and check the data for errors
-	4.	Analyze – Explore the data to find patterns and insights
-	5.	Share – Present the results in a clear way (charts, reports)
-	6.	Act – Use the insights to make smart decisions
+	
+1.	Ask – Define the question you want to answer
+2.	Prepare – Collect and organize the data
+3.	Process – Clean and check the data for errors
+4.	Analyze – Explore the data to find patterns and insights
+5.	Share – Present the results in a clear way (charts, reports)
+6.	Act – Use the insights to make smart decisions
 
-
-Big data
-
-**Information**:
-
-**Knowledge**:
-
-**Wisdom**:
 
 **Data Types**: 
-1. Quantitative Data (Numerical Data): is numerical and used for calculations.
+1. **Quantitative Data** (Numerical Data): is numerical and used for calculations.
    
-     Interval Data: Numerical data where the difference between values is meaningful, but there is no true zero point.
+     **Interval Data**: Numerical data where the difference between values is meaningful, but there is no true zero point.
    
-     Ratio Data: Numerical data that has all the properties of interval data, but with a true zero point, which allows for meaningful ratios.
+     **Ratio Data**: Numerical data that has all the properties of interval data, but with a true zero point, which allows for meaningful ratios.
    
 2. Qualitative Data (Categorical Data): is descriptive and used for categorization.
    
