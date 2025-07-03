@@ -4,7 +4,7 @@
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
 
  
-DIKW Pyramid is a structured view from raw data to smart decision-making.
+*DIKW Pyramid* is a structured view from raw data to smart decision-making.
 
 Data - Raw facts and numbers without context.
 
