@@ -86,10 +86,13 @@ It includes 6 main steps:
 	
 	For example, a loan agreement in a credit portfolio is an observation unit.
 
-
 **Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode, and quartiles are measures of central tendency.
-		For example, the average loan amount in a bank’s credit portfolio is a central tendency measure.
+		
+	For example, the average loan amount in a bank’s credit portfolio is a central tendency measure.
+
 **Arithmetic Mean**: The arithmetic mean is the value obtained by adding all the values in a series and dividing by the number of values.
+
+	SELECT AVG(loan_amount) AS average_loan_amount FROM loans;
 
 **Median**: The median is the value that divides a series into two equal parts when the series is arranged in ascending or descending order. It is the middle value in the ordered list.
 
@@ -98,8 +101,7 @@ If the series is symmetric, meaning the values in the dataset are close to each 
 **Mode**:
 
 
-SELECT AVG(loan_amount) AS average_loan_amount
-FROM loans;
+
 
 **Quartiles**:
 **Range**:
