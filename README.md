@@ -48,15 +48,8 @@ It includes 6 main steps:
 6.	Act – Use the insights to make smart decisions
 
 
-Big data
-
-**Information**:
-
-**Knowledge**:
-
-**Wisdom**:
-
 **Data Types**: 
+
 1. Quantitative Data (Numerical Data): is numerical and used for calculations.
    
      Interval Data: Numerical data where the difference between values is meaningful, but there is no true zero point.
@@ -69,9 +62,7 @@ Big data
    
      Ordinal Data: Categories that have a meaningful order or ranking but no consistent difference between them.
    
-Database Table
-
-Variables
+**Database** is a place where information is stored and organized so it can be easily found and used.
 
 **Dataset**: A structured collection of data, often presented in rows and columns, like a table.
 
@@ -92,6 +83,9 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 **Sample**: A sample is a subset of the population selected for analysis to make inferences about the entire group.
 
 **Observation unit**: Observation unit is the individual entity or item on which data is collected and analyzed in a study.
+	
+	For example, a loan agreement in a credit portfolio is an observation unit.
+
 
 **Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode, and quartiles are measures of central tendency.
 
@@ -99,7 +93,7 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 
 **Median**: The median is the value that divides a series into two equal parts when the series is arranged in ascending or descending order. It is the middle value in the ordered list.
 
-   If the series is symmetric, meaning the values in the dataset are close to each other, it is appropriate to use the arithmetic mean as the representative value. However, if the series is not symmetric, the median should be preferred. If the arithmetic mean and median values are close to each other, the series is considered symmetric.
+If the series is symmetric, meaning the values in the dataset are close to each other, it is appropriate to use the arithmetic mean as the representative value. However, if the series is not symmetric, the median should be preferred. If the arithmetic mean and median values are close to each other, the series is considered symmetric.
 
 **Mode**:
 **Quartiles**:
