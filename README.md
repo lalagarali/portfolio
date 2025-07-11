@@ -4,7 +4,7 @@
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
 
  
-*DIKW Pyramid* is a structured view from raw data to smart decision-making.
+**DIKW Pyramid** is a structured view from raw data to smart decision-making.
 
 Data - Raw facts and numbers without context.
 
@@ -68,13 +68,13 @@ It includes 6 main steps:
 
 **Stages of Analytics**:
 
-Descriptive Analytics: Focuses on understanding what has happened.
+*Descriptive Analytics*: Focuses on understanding what has happened.
 
-Diagnostic Analytics: Focuses on understanding why something happened.
+*Diagnostic Analytics*: Focuses on understanding why something happened.
 
-Predictive Analytics: Focuses on anticipating what is likely to happen.
+*Predictive Analytics*: Focuses on anticipating what is likely to happen.
 
-Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
+*Prescriptive Analytics*: Focuses on recommending actions to optimize outcomes.
 
 **Data Visualization**: The graphical representation of data to make it easier to understand, such as charts, graphs, and maps.
 
@@ -88,7 +88,7 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 
 
 **Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode, and quartiles are measures of central tendency.
-
+		For example, the average loan amount in a bank’s credit portfolio is a central tendency measure.
 **Arithmetic Mean**: The arithmetic mean is the value obtained by adding all the values in a series and dividing by the number of values.
 
 **Median**: The median is the value that divides a series into two equal parts when the series is arranged in ascending or descending order. It is the middle value in the ordered list.
@@ -96,6 +96,11 @@ Prescriptive Analytics: Focuses on recommending actions to optimize outcomes.
 If the series is symmetric, meaning the values in the dataset are close to each other, it is appropriate to use the arithmetic mean as the representative value. However, if the series is not symmetric, the median should be preferred. If the arithmetic mean and median values are close to each other, the series is considered symmetric.
 
 **Mode**:
+
+
+SELECT AVG(loan_amount) AS average_loan_amount
+FROM loans;
+
 **Quartiles**:
 **Range**:
 
