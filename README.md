@@ -85,6 +85,13 @@ It includes 6 main steps:
 **Observation unit**: Observation unit is the individual entity or item on which data is collected and analyzed in a study.
 	
 	For example, a loan agreement in a credit portfolio is an observation unit.
+	CREATE TABLE Credits (
+    credit_id INT PRIMARY KEY,
+    customer_id INT,
+    loan_amount DECIMAL(10,2),
+    interest_rate DECIMAL(4,2),
+    start_date DATE,
+    end_date DATE);
 
 **Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode, and quartiles are measures of central tendency.
 		
