@@ -93,7 +93,7 @@ It includes 6 main steps:
     start_date DATE,
     end_date DATE);
 
-**Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode, and quartiles are measures of central tendency.
+**Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode are measures of central tendency.
 		
 	For example, the average loan amount in a bank’s credit portfolio is a central tendency measure.
 
