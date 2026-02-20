@@ -35,7 +35,7 @@ Data analysis is the process of collecting, cleaning, and studying data to find 
 	
 6.	Act – Use the insights to make smart decisions
 
-![image](https://github.com/lalagarali/portfolio/blob/20b9f9d8ddc8d7828b494e106c7fa78256470501/Big%20data%20vs%20metadata%20comparison.png)
+![image](https://github.com/lalagarali/portfolio/blob/6c5e1a7390ef1b9f5d744b06f60c64c29484bdae/Data%20analysis%20and%20decision%20making%20steps.png)
 
 **Data Types**: 
 
