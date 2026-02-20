@@ -8,18 +8,6 @@ Data literacy refers to the ability to read, understand, interpret, and use data
 
 ![image](dikw.png)
 
-Data - Raw facts and numbers without context.
-
-Facts - Verified and true pieces of data.
-
-Information - Organized and meaningful data.
-
-Knowledge - Information combined with understanding or experience.
-
-Insights - Useful discoveries or patterns found through data analysis.
-
-Wisdom - The ability to make smart decisions based on knowledge and insights.
-
 Big Data - Extremely large and complex data sets that require advanced tools to process.
 
 Metadata - Data about data; it describes other data.
