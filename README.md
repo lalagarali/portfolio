@@ -21,9 +21,7 @@ Structured data is organized in rows and columns.It is easy to store, search, an
 
 Unstructured data has no fixed format.It is not stored in rows and columns.(Images and videos)
 
-Data analysis is the process of collecting, cleaning, and studying data to find useful information.It helps people and businesses make better decisions based on facts.
-
-It includes 6 main steps:
+Data analysis is the process of collecting, cleaning, and studying data to find useful information.It helps people and businesses make better decisions based on facts. It includes 6 main steps:
 
 1.	Ask – Define the question you want to answer
 	
@@ -37,6 +35,7 @@ It includes 6 main steps:
 	
 6.	Act – Use the insights to make smart decisions
 
+![image](https://github.com/lalagarali/portfolio/blob/20b9f9d8ddc8d7828b494e106c7fa78256470501/Big%20data%20vs%20metadata%20comparison.png)
 
 **Data Types**: 
 
