@@ -23,8 +23,6 @@ Unstructured data has no fixed format.It is not stored in rows and columns.(Imag
 
 Data analysis is the process of collecting, cleaning, and studying data to find useful information.It helps people and businesses make better decisions based on facts.
 
-Data Analysis Process is a step-by-step method used to understand and find meaning in data.
-
 It includes 6 main steps:
 
 1.	Ask – Define the question you want to answer
