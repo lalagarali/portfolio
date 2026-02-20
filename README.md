@@ -12,7 +12,9 @@ Big Data - Extremely large and complex data sets that require advanced tools to 
 
 Metadata - Data about data; it describes other data.
 
-![image](Big data vs metadata comparison.png)
+![image](https://github.com/lalagarali/portfolio/blob/a257f46db0bd7824f81c4e67824b8faa8b1a1862/Big%20data%20vs%20metadata%20comparison.png)
+
+
 Data can be categorized into two groups:
 
 Structured data is organized in rows and columns.It is easy to store, search, and analyze. This kind of data is usually stored in databases.(Customer name, age)
