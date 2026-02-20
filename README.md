@@ -50,6 +50,18 @@ Data analysis is the process of collecting, cleaning, and studying data to find 
      Nominal Data: Categories with no specific order.
    
      Ordinal Data: Categories that have a meaningful order or ranking but no consistent difference between them.
+
+![image](https://github.com/lalagarali/portfolio/blob/b1c26dd591db41d6c4606f04e85518e0eea61261/Types%20of%20data_%20Quantitative%20vs%20Qualitative.png ) 
+
+	SELECT
+    CUSTOMER_ID       AS "Ratio Data",
+    AGE               AS "Interval Data",
+    INCOME            AS "Ratio Data",
+    NAME              AS "Nominal Data",
+    GENDER            AS "Nominal Data",
+    EDUCATION_LEVEL   AS "Ordinal Data",
+    JOIN_DATE         AS "Interval Data"
+	FROM CUSTOMERS;
    
 **Database** is a place where information is stored and organized so it can be easily found and used.
 
