@@ -37,6 +37,17 @@ Data analysis is the process of collecting, cleaning, and studying data to find 
 
 ![image](https://github.com/lalagarali/portfolio/blob/6c5e1a7390ef1b9f5d744b06f60c64c29484bdae/Data%20analysis%20and%20decision%20making%20steps.png)
 
+
+**Stages of Analytics**:
+
+*Descriptive Analytics*: Focuses on understanding what has happened.
+
+*Diagnostic Analytics*: Focuses on understanding why something happened.
+
+*Predictive Analytics*: Focuses on anticipating what is likely to happen.
+
+*Prescriptive Analytics*: Focuses on recommending actions to optimize outcomes.
+
 **Data Types**: 
 
 1. Quantitative Data (Numerical Data): is numerical and used for calculations.
@@ -63,19 +74,17 @@ Data analysis is the process of collecting, cleaning, and studying data to find 
     JOIN_DATE         AS "Interval Data"
 	FROM CUSTOMERS;
    
-**Database** is a place where information is stored and organized so it can be easily found and used.
 
-**Dataset**: A structured collection of data, often presented in rows and columns, like a table.
+**What is Database?**
 
-**Stages of Analytics**:
+**Database**: Stores structured data for daily transactions and operations.
 
-*Descriptive Analytics*: Focuses on understanding what has happened.
+**Data Lake**: A large, raw data storage system that holds unstructured and structured data.
 
-*Diagnostic Analytics*: Focuses on understanding why something happened.
+**Data Mart**: A smaller, focused version of a data warehouse, tailored to specific business needs.
 
-*Predictive Analytics*: Focuses on anticipating what is likely to happen.
+**Data Warehouse**: A central repository for integrated, structured data designed for analysis and reporting.
 
-*Prescriptive Analytics*: Focuses on recommending actions to optimize outcomes.
 
 **Data Visualization**: The graphical representation of data to make it easier to understand, such as charts, graphs, and maps.
 
