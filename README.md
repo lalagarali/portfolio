@@ -3,10 +3,16 @@
 ## Mündəricat
 - [Data Literacy](#data-literacy)
 - [Statistics and Mathematics](#statistics-and-mathematics)
-- [Data mənbəyi](#data-mənbəyi)
-- [Analiz](#analiz)
-- [Nəticə](#nəticə)
+- [Microsoft Excel](#microsoft-excel)
+- [SQL](#sql)
+- [NoSQL](#nosql)
 
+
+## SQL
+
+## NoSQL
+
+## PL/SQL
 
 ## Data Literacy
 ---
@@ -257,13 +263,13 @@ Data Cleaning
 Matchine learning
 Model deployment
 
-3. Microsoft Excel
+## Microsoft Excel
 
-4. SQL
+## SQL
 
-5. NoSQl
+## NoSQl
 
-6. PLSQL
+## PL/SQL
 
 A PL/SQL block has up to four different sections, only one of which is mandatory:
 
