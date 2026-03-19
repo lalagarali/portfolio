@@ -65,6 +65,8 @@ Data analysis is the process of collecting, cleaning, and studying data to find 
 
 *Prescriptive Analytics*: Focuses on recommending actions to optimize outcomes.
 
+![image](https://github.com/lalagarali/portfolio/blob/a44030ec57c5cddbd631187d2608908729b0370f/Stages%20of%20Analytics.png)
+
 **Data Types**: 
 
 1. Quantitative Data (Numerical Data): is numerical and used for calculations.
