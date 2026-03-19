@@ -1,5 +1,14 @@
 ## Data Analyst and Data Science with SQL
-` 1. Data Literacy `
+
+## Mündəricat
+- [Data Literacy](#data-literacy)
+- [Statistics and Mathematics](#statistics-and-mathematics)
+- [Data mənbəyi](#data-mənbəyi)
+- [Analiz](#analiz)
+- [Nəticə](#nəticə)
+
+
+## Data Literacy
 ---
 Data literacy refers to the ability to read, understand, interpret, and use data effectively. 
 
@@ -159,7 +168,7 @@ Percentile
 
 **Data Privacy**: Ensuring that personal or sensitive data is protected from unauthorized access.
 
-2. Statistics and Mathematics
+## Statistics and Mathematics
 
 Descriptive statistic
 Measures of Central Tendency
