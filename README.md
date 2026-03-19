@@ -1,6 +1,6 @@
 ## Data Analyst and Data Science with SQL
 
-## Mündəricat
+## Table of Contents
 - [Data Literacy](#data-literacy)
 - [Statistics and Mathematics](#statistics-and-mathematics)
 - [Microsoft Excel](#microsoft-excel)
