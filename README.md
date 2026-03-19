@@ -82,7 +82,7 @@ Data analysis is the process of collecting, cleaning, and studying data to find 
 ![image](https://github.com/lalagarali/portfolio/blob/b1c26dd591db41d6c4606f04e85518e0eea61261/Types%20of%20data_%20Quantitative%20vs%20Qualitative.png ) 
 
 	SELECT
-    CUSTOMER_ID       AS "Ratio Data",
+    CUSTOMER_ID       AS "Nominal Data",
     AGE               AS "Interval Data",
     INCOME            AS "Ratio Data",
     NAME              AS "Nominal Data",
