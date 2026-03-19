@@ -1,21 +1,19 @@
 ## Data Analyst and Data Science with SQL
 
 ## Table of Contents
-- [Data Literacy](#data-literacy)
-- [Statistics and Mathematics](#statistics-and-mathematics)
-- [Microsoft Excel](#microsoft-excel)
-- [SQL](#sql)
-- [NoSQL](#nosql)
-- [PL/SQL](#plsql)
-- [BI tools](#bi-tools)
-- [Python](#python)
-- [R](#r)
-- [Machine learning](#machine-learning)
-- [Deep Learning](#deep-learning)
-- [NLP](#nlp)
-- [Deployment and Cloud Platform](#deployment-and-cloud-platform)
-- [AI](#ai)
-- [NLP](#nlp)
+1. [Data Literacy](#data-literacy)
+1. [Statistics and Mathematics](#statistics-and-mathematics)
+1. [Microsoft Excel](#microsoft-excel)
+1. [SQL](#sql)
+1. [NoSQL](#nosql)
+1. [PL/SQL](#plsql)
+1. [BI tools](#bi-tools)
+1. [Python/R](#pythonr)
+1. [Machine learning](#machine-learning)
+1. [Deep Learning](#deep-learning)
+1. [NLP](#nlp)
+1. [Deployment and Cloud Platform](#deployment-and-cloud-platform)
+1. [AI](#ai)
 
 
 ## Data Literacy
@@ -317,21 +315,20 @@ A literal is a value that is not represented by an identifier; it is simply a va
 
 
 
-## BI tools - Power BI
+## BI tools
 
 Dax function
 
 
 Tableau, Oracle BI
 
-## Python
+## Python/R
 
 print('Hello, Git!')
 Data structure in Python
 
-## R
 
-## ML (Machine learning)
+## Machine learning)
 
 ## Deep Learning
 
