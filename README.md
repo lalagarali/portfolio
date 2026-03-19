@@ -6,13 +6,17 @@
 - [Microsoft Excel](#microsoft-excel)
 - [SQL](#sql)
 - [NoSQL](#nosql)
+- [PL/SQL](#plsql)
+- [BI tools](#bi-tools)
+- [Python](#python)
+- [R](#r)
+- [Machine learning](#machine-learning)
+- [Deep Learning](#deep-learning)
+- [NLP](#nlp)
+- [Deployment and Cloud Platform](#deployment-and-cloud-platform)
+- [AI](#ai)
+- [NLP](#nlp)
 
-
-## SQL
-
-## NoSQL
-
-## PL/SQL
 
 ## Data Literacy
 ---
@@ -313,26 +317,26 @@ A literal is a value that is not represented by an identifier; it is simply a va
 
 
 
-7. BI tools - Power BI
+## BI tools - Power BI
 
 Dax function
 
 
 Tableau, Oracle BI
 
-8. Python
+## Python
 
 print('Hello, Git!')
 Data structure in Python
 
-9. R
+## R
 
-10. ML (Machine learning)
+## ML (Machine learning)
 
-11. Deep Learning
+## Deep Learning
 
-12. NLP
+## NLP
 
-13. Deployment and Cloud Platform
+## Deployment and Cloud Platform
 
-14. Projects
+## AI
