@@ -135,11 +135,30 @@ Data analysis is the process of collecting, cleaning, and studying data to find 
 If the series is symmetric, meaning the values in the dataset are close to each other, it is appropriate to use the arithmetic mean as the representative value. However, if the series is not symmetric, the median should be preferred. If the arithmetic mean and median values are close to each other, the series is considered symmetric.
 
 **Mode**:
+The mode is the value that appears most frequently in a dataset. A dataset can have one mode (unimodal), more than one mode (multimodal), or no mode if all values appear with the same frequency.
 
+	For example, find the most frequent transaction amount made by customers.
 
-
+	SELECT amount, COUNT(*) AS mode_amount
+	FROM transactions
+	GROUP BY amount
+	ORDER BY freq DESC
+	FETCH FIRST 1 ROW ONLY;
 
 **Quartiles**:
+Quartiles are used to divide a dataset into four equal parts, helping to understand data distribution and identify variability and outliers.
+
+	SELECT 
+	customer_id,
+	amount,
+	NTILE(4) OVER (ORDER BY amount) AS customer_segment
+	FROM transactions;
+	
+	1 → Low-value customers
+	2 → Medium-low
+	3 → Medium-high
+	4 → High-value customers
+
 **Range**:
 
 İnterval
