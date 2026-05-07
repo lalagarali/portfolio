@@ -122,15 +122,18 @@ Data analysis is the process of collecting, cleaning, and studying data to find 
     start_date DATE,
     end_date DATE);
 
-**Central Tendency Measures**: These are values that summarize the data. Arithmetic mean, median, mode are measures of central tendency.
+**Central Tendency Measures**: These measures describe the center of the data. Arithmetic mean, median, mode are measures of central tendency.
 		
-	For example, the average loan amount in a bank’s credit portfolio is a central tendency measure.
+	For example, the average loan amount in a bank’s credit portfolio represents a central tendency measure.
 
 **Arithmetic Mean**: The arithmetic mean is the value obtained by adding all the values in a series and dividing by the number of values.
 
 	SELECT AVG(loan_amount) AS average_loan_amount FROM loans;
 
 **Median**: The median is the value that divides a series into two equal parts when the series is arranged in ascending or descending order. It is the middle value in the ordered list.
+
+	SELECT branch_id, PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY loan_amount) AS median_loan_amount 
+	FROM credit_portfolio GROUP BY branch_id;
 
 If the series is symmetric, meaning the values in the dataset are close to each other, it is appropriate to use the arithmetic mean as the representative value. However, if the series is not symmetric, the median should be preferred. If the arithmetic mean and median values are close to each other, the series is considered symmetric.
 
@@ -145,7 +148,21 @@ The mode is the value that appears most frequently in a dataset. A dataset can h
 	ORDER BY freq DESC
 	FETCH FIRST 1 ROW ONLY;
 
+**Dispersion Measures**: These measure how spread out the data is.
+
+	For example, a bank wants to analyze how account balances vary across customers.
+	
+**Range**: Range is the difference between the maximum and minimum values in a dataset, showing the overall spread.
+
+For example, Shows difference between highest and lowest balance and Helps detect large gaps (e.g. VIP vs low-balance users).
+	SELECT 
+    MAX(balance) AS max_balance,
+    MIN(balance) AS min_balance,
+    MAX(balance) - MIN(balance) AS balance_range
+	FROM accounts; 
+
 **Quartiles**:
+
 Quartiles are used to divide a dataset into four equal parts, helping to understand data distribution and identify variability and outliers.
 
 	SELECT 
@@ -159,7 +176,7 @@ Quartiles are used to divide a dataset into four equal parts, helping to underst
 	3 → Medium-high
 	4 → High-value customers
 
-**Range**:
+
 
 İnterval
 Percentile
